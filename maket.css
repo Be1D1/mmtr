@@ -305,7 +305,7 @@ header button{
     text-decoration: none;
     color:#919090;
 }
-.shop_by a:focus{
+.shop_by a:focus {
     color: #154444;
     border-bottom: solid;
     border-color: #154444;
