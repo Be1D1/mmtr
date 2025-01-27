@@ -2,6 +2,9 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     margin-top: 50px;
 }
+html{
+    height: 100%;
+}
 .block1, .block2, .block3, .block4, .block5, .block6, .block7{
     max-width: 1700px;
     margin: 0 auto;
